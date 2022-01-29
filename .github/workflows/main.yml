@@ -24,3 +24,7 @@ jobs:
     steps:
     - name: DEV Blog Posts To Jekyll Markdown
       uses: bencgreenberg/dev-posts-to-jekyll-markdown-action@v2.0.1
+    env:
+      GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      DEV_API_KEY: "${{ secrets.DEV_API_KEY }}"
+      NUM_OF_POSTS: "${{ secrets.NUM_OF_POSTS }}"
