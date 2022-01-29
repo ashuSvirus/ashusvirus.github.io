@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Ashutosh Mittal. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I graduated from IIT Roorkee in 2016 with major in Electronics and Communication Engineering.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have been working in backend development for last 6 years professionally. 
+I started my development journey with HTML and CSS. After 1 year, I picked up PHP for backend development learning. 
+For 2 years i worked with PHP, used frameworks like Laravel and CakePHP. 
+The journey has been very interesting, to know more about me you can checkout my [linkedin page](https://www.linkedin.com/in/ashusvirus/){:target="_blank"}.
+
+My area of interest is backend engineering, infrastructure scaling and security.  
 
 
-[jekyll-organization]: https://github.com/jekyll

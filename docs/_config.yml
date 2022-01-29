@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ashutosh Mittal | Portfolio
+title: Ashutosh Mittal
 email: ashuSvirus@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My story, My journey,
@@ -33,6 +33,7 @@ github_username:  ashuSvirus
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
