@@ -3,6 +3,13 @@ on:
   schedule:
     # At midnight twice a week on Monday and Thursday
     - cron:  '*/5 * * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 jobs:
   dev-to-jekyll:
     runs-on: ubuntu-latest
