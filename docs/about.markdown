@@ -14,5 +14,3 @@ For 2 years i worked with PHP, used frameworks like Laravel and CakePHP.
 The journey has been very interesting, to know more about me you can checkout my [linkedin page](https://www.linkedin.com/in/ashusvirus/){:target="_blank"}.
 
 My area of interest is backend engineering, infrastructure scaling and security.  
-
-

@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: default
 title:  "Mitigating MySQL Downtime for big migrations"
 date:   2022-01-28 22:10:21 +0530
 categories: mysql downtime percona
 ---
+
+# Mitigating MySQL Downtime for big migrations
 
 
 I have been using MySQL for the last 3 years. In the beginning, the data size was small and manageable.
